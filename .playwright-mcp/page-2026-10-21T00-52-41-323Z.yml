@@ -1,0 +1,668 @@
+- generic [ref=f1e3]:
+  - generic [ref=f1e10]:
+    - generic [ref=f1e11]:
+      - generic [ref=f1e12]: "000"
+      - generic [ref=f1e13]: Percent
+    - generic [ref=f1e15]:
+      - generic [ref=f1e16]: Kowdiar · Thiruvananthapuram
+      - generic [ref=f1e17]: Est. 1996
+  - generic [ref=f1e18]:
+    - banner [ref=f1e19]:
+      - generic [ref=f1e21]:
+        - button "The Glatt Salon — home" [ref=f1e22]:
+          - generic [ref=f1e25]:
+            - generic [ref=f1e26]: THE GLATT
+            - generic [ref=f1e27]: Unisex Salon & Spa
+        - generic [ref=f1e28]:
+          - button "Reserve" [ref=f1e29]
+          - button "Open menu" [ref=f1e33]
+    - main [ref=f1e35]:
+      - generic [ref=f1e36]:
+        - img "A master stylist sculpting a cut with shears and comb at The Glatt Salon" [ref=f1e38]
+        - generic [ref=f1e45]:
+          - generic [ref=f1e46]:
+            - generic [ref=f1e47]:
+              - generic [ref=f1e48]: Est. 1996
+              - generic [ref=f1e50]: Kowdiar · Thiruvananthapuram
+            - heading "Where Style Meets Craft" [level=1] [ref=f1e51]:
+              - generic [ref=f1e52]: Where Style
+              - generic [ref=f1e53]: Meets Craft
+            - paragraph [ref=f1e54]: Thiruvananthapuram’s premier unisex salon since 1996. Bespoke haircutting, radiant bridal makeup, advanced skin aesthetics, and restorative spa rituals crafted with precision.
+            - generic [ref=f1e55]:
+              - button "Reserve your slot" [ref=f1e56]
+              - link "Explore the menu" [ref=f1e59] [cursor=pointer]:
+                - /url: "#services"
+          - generic [ref=f1e60]:
+            - generic [ref=f1e61]:
+              - term [ref=f1e62]: Google
+              - definition [ref=f1e63]:
+                - link "4.2 · 574 reviews" [ref=f1e75] [cursor=pointer]:
+                  - /url: https://www.google.com/search?q=the+glatt+salon+trivandrum
+                  - text: "4.2"
+                  - generic [ref=f1e76]: · 574 reviews
+            - generic [ref=f1e77]:
+              - term [ref=f1e78]: Studio
+              - definition [ref=f1e79]: Kanaka Nagar, Kowdiar
+            - generic [ref=f1e83]:
+              - term [ref=f1e84]: Concierge
+              - definition [ref=f1e85]:
+                - link "098959 70069" [ref=f1e86] [cursor=pointer]:
+                  - /url: tel:09895970069
+            - generic [ref=f1e89]:
+              - term [ref=f1e90]: Hours
+              - definition [ref=f1e91]: Open daily 9:00 AM – 8:30 PM
+      - generic [ref=f1e97]:
+        - generic [ref=f1e98]:
+          - generic [ref=f1e99]: Hair Architecture
+          - generic [ref=f1e101]: Signature Bridal Artistry
+          - generic [ref=f1e103]: Keratin & Hair Botox
+          - generic [ref=f1e105]: Precision Men’s Grooming
+          - generic [ref=f1e107]: Aromatherapy Spa Rituals
+          - generic [ref=f1e109]: Hydra-Luxe Skincare
+          - generic [ref=f1e111]: "1996"
+          - generic [ref=f1e113]: Kowdiar, Thiruvananthapuram
+        - generic [ref=f1e115]:
+          - generic [ref=f1e116]: Hair Architecture
+          - generic [ref=f1e118]: Signature Bridal Artistry
+          - generic [ref=f1e120]: Keratin & Hair Botox
+          - generic [ref=f1e122]: Precision Men’s Grooming
+          - generic [ref=f1e124]: Aromatherapy Spa Rituals
+          - generic [ref=f1e126]: Hydra-Luxe Skincare
+          - generic [ref=f1e128]: "1996"
+          - generic [ref=f1e130]: Kowdiar, Thiruvananthapuram
+      - generic [ref=f1e134]:
+        - generic [ref=f1e135]:
+          - generic [ref=f1e136]:
+            - heading [level=2] [ref=f1e137]:
+              - text: A menu ofconsidered
+              - emphasis [ref=f1e138]: craft
+            - paragraph [ref=f1e139]: Every appointment is built around precision, bespoke consultation, and high-end formulations tailored to your lifestyle.
+          - tablist "Filter treatments by category" [ref=f1e140]:
+            - tab "All 9" [selected] [ref=f1e141]:
+              - generic [ref=f1e143]:
+                - text: All
+                - generic [ref=f1e145]: "9"
+            - tab "Hair Design 3" [ref=f1e146]:
+              - generic [ref=f1e147]:
+                - text: Hair Design
+                - generic [ref=f1e149]: "3"
+            - tab "Bridal & Makeup 1" [ref=f1e150]:
+              - generic [ref=f1e151]:
+                - text: Bridal & Makeup
+                - generic [ref=f1e153]: "1"
+            - tab "Skin & Beauty 1" [ref=f1e154]:
+              - generic [ref=f1e155]:
+                - text: Skin & Beauty
+                - generic [ref=f1e157]: "1"
+            - tab "Spa Rituals 2" [ref=f1e158]:
+              - generic [ref=f1e159]:
+                - text: Spa Rituals
+                - generic [ref=f1e161]: "2"
+            - tab "Men's Grooming 2" [ref=f1e162]:
+              - generic [ref=f1e163]:
+                - text: Men's Grooming
+                - generic [ref=f1e165]: "2"
+        - generic [ref=f1e166]:
+          - list [ref=f1e167]:
+            - listitem [ref=f1e168]:
+              - button "Signature Haircut & Styling 45 mins Precision cut tailored to your facial architecture and natural hair texture, followed by luxury blowdry and finish. From ₹450" [ref=f1e170] [cursor=pointer]:
+                - generic [ref=f1e171]:
+                  - generic [ref=f1e172]:
+                    - heading "Signature Haircut & Styling" [level=3] [ref=f1e173]
+                    - generic [ref=f1e174]: 45 mins
+                  - paragraph [ref=f1e175]: Precision cut tailored to your facial architecture and natural hair texture, followed by luxury blowdry and finish.
+                - generic [ref=f1e177]:
+                  - generic [ref=f1e178]: From
+                  - generic [ref=f1e179]: ₹450
+            - listitem [ref=f1e183]:
+              - button "Skin Fade & Beard Sculpt 50 mins Master razor detailing, clean high/mid/low fade blending, and hot lather contour sculpting. From ₹550" [ref=f1e185] [cursor=pointer]:
+                - generic [ref=f1e186]:
+                  - generic [ref=f1e187]:
+                    - heading "Skin Fade & Beard Sculpt" [level=3] [ref=f1e188]
+                    - generic [ref=f1e189]: 50 mins
+                  - paragraph [ref=f1e190]: Master razor detailing, clean high/mid/low fade blending, and hot lather contour sculpting.
+                - generic [ref=f1e192]:
+                  - generic [ref=f1e193]: From
+                  - generic [ref=f1e194]: ₹550
+            - listitem [ref=f1e198]:
+              - button "Bridal Glamour & Muhurtham Artistry 180 mins Bespoke Kerala bridal transformation featuring HD radiance makeup, traditional hair draping, and floral ornamentation. From ₹12,000" [ref=f1e200] [cursor=pointer]:
+                - generic [ref=f1e201]:
+                  - generic [ref=f1e202]:
+                    - heading "Bridal Glamour & Muhurtham Artistry" [level=3] [ref=f1e203]
+                    - generic [ref=f1e204]: 180 mins
+                  - paragraph [ref=f1e205]: Bespoke Kerala bridal transformation featuring HD radiance makeup, traditional hair draping, and floral ornamentation.
+                - generic [ref=f1e207]:
+                  - generic [ref=f1e208]: From
+                  - generic [ref=f1e209]: ₹12,000
+            - listitem [ref=f1e213]:
+              - button "Balayage & Dimensional Color 150 mins Hand-painted sunlit highlights, ammonia-free root melt, toner gloss, and bond-building treatment. From ₹3,800" [ref=f1e215] [cursor=pointer]:
+                - generic [ref=f1e216]:
+                  - generic [ref=f1e217]:
+                    - heading "Balayage & Dimensional Color" [level=3] [ref=f1e218]
+                    - generic [ref=f1e219]: 150 mins
+                  - paragraph [ref=f1e220]: Hand-painted sunlit highlights, ammonia-free root melt, toner gloss, and bond-building treatment.
+                - generic [ref=f1e222]:
+                  - generic [ref=f1e223]: From
+                  - generic [ref=f1e224]: ₹3,800
+            - listitem [ref=f1e228]:
+              - button "Keratin Smoothing & Hair Botox 120 mins Deep restorative protein infusion eliminating frizz and imparting mirror-like gloss that lasts 4 to 6 months. From ₹4,500" [ref=f1e230] [cursor=pointer]:
+                - generic [ref=f1e231]:
+                  - generic [ref=f1e232]:
+                    - heading "Keratin Smoothing & Hair Botox" [level=3] [ref=f1e233]
+                    - generic [ref=f1e234]: 120 mins
+                  - paragraph [ref=f1e235]: Deep restorative protein infusion eliminating frizz and imparting mirror-like gloss that lasts 4 to 6 months.
+                - generic [ref=f1e237]:
+                  - generic [ref=f1e238]: From
+                  - generic [ref=f1e239]: ₹4,500
+            - listitem [ref=f1e243]:
+              - button "Moroccan Argan Hair Spa Ritual 60 mins Deep scalp cleansing, warm botanical steam, intensive argan lipid masque, and stress-relieving acupressure massage. From ₹1,500" [ref=f1e245] [cursor=pointer]:
+                - generic [ref=f1e246]:
+                  - generic [ref=f1e247]:
+                    - heading "Moroccan Argan Hair Spa Ritual" [level=3] [ref=f1e248]
+                    - generic [ref=f1e249]: 60 mins
+                  - paragraph [ref=f1e250]: Deep scalp cleansing, warm botanical steam, intensive argan lipid masque, and stress-relieving acupressure massage.
+                - generic [ref=f1e252]:
+                  - generic [ref=f1e253]: From
+                  - generic [ref=f1e254]: ₹1,500
+            - listitem [ref=f1e258]:
+              - button "Aromatherapy Head & Shoulder Spa 60 mins Therapeutic head, neck, and shoulder massage using warm botanical essential oils to melt away tension. From ₹1,800" [ref=f1e260] [cursor=pointer]:
+                - generic [ref=f1e261]:
+                  - generic [ref=f1e262]:
+                    - heading "Aromatherapy Head & Shoulder Spa" [level=3] [ref=f1e263]
+                    - generic [ref=f1e264]: 60 mins
+                  - paragraph [ref=f1e265]: Therapeutic head, neck, and shoulder massage using warm botanical essential oils to melt away tension.
+                - generic [ref=f1e267]:
+                  - generic [ref=f1e268]: From
+                  - generic [ref=f1e269]: ₹1,800
+            - listitem [ref=f1e273]:
+              - button "Hydra-Luxe Glow Skin Therapy 75 mins Gentle exfoliation, deep vortex vacuum extraction, peptide infusion, and calming cryo-cooling globe finish. From ₹2,800" [ref=f1e275] [cursor=pointer]:
+                - generic [ref=f1e276]:
+                  - generic [ref=f1e277]:
+                    - heading "Hydra-Luxe Glow Skin Therapy" [level=3] [ref=f1e278]
+                    - generic [ref=f1e279]: 75 mins
+                  - paragraph [ref=f1e280]: Gentle exfoliation, deep vortex vacuum extraction, peptide infusion, and calming cryo-cooling globe finish.
+                - generic [ref=f1e282]:
+                  - generic [ref=f1e283]: From
+                  - generic [ref=f1e284]: ₹2,800
+            - listitem [ref=f1e288]:
+              - button "Executive Grooming Package 90 mins Signature haircut, beard re-shaping, deep clarifying scalp wash, charcoal face cleanup, and hot towel finish. From ₹1,600" [ref=f1e290] [cursor=pointer]:
+                - generic [ref=f1e291]:
+                  - generic [ref=f1e292]:
+                    - heading "Executive Grooming Package" [level=3] [ref=f1e293]
+                    - generic [ref=f1e294]: 90 mins
+                  - paragraph [ref=f1e295]: Signature haircut, beard re-shaping, deep clarifying scalp wash, charcoal face cleanup, and hot towel finish.
+                - generic [ref=f1e297]:
+                  - generic [ref=f1e298]: From
+                  - generic [ref=f1e299]: ₹1,600
+          - paragraph [ref=f1e303]: Custom bridal packages, corporate grooming, and group spa bookings are available upon consultation.
+      - generic [ref=f1e307]:
+        - generic [ref=f1e308]:
+          - heading [level=2] [ref=f1e309]:
+            - text: Find your signature
+            - emphasis [ref=f1e310]: style & estimate
+          - paragraph [ref=f1e311]: Select your preferences to discover the treatment our master team would prescribe, with the artist best suited to deliver it.
+          - generic [ref=f1e312]:
+            - paragraph [ref=f1e313]: Preference
+            - generic [ref=f1e314]:
+              - button "Unisex Craft" [pressed] [ref=f1e315]
+              - button "Women’s Luxury" [ref=f1e317]
+              - button "Men’s Grooming" [ref=f1e318]
+          - generic [ref=f1e319]:
+            - paragraph [ref=f1e320]: Desired transformation
+            - generic [ref=f1e321]:
+              - button "Precision Haircut" [pressed] [ref=f1e322]
+              - button "Bridal Artistry" [ref=f1e324]
+              - button "Balayage & Color" [ref=f1e325]
+              - button "Aromatic Spa Therapy" [ref=f1e326]
+        - generic [ref=f1e328]:
+          - paragraph [ref=f1e330]: Recommended experience
+          - heading "Signature Haircut & Styling" [level=3] [ref=f1e331]
+          - paragraph [ref=f1e332]: Precision architectural cut tailored to your facial symmetry.
+          - generic [ref=f1e337]:
+            - text: Lead artist
+            - strong [ref=f1e338]: Arun & Master Team
+          - generic [ref=f1e339]:
+            - generic [ref=f1e340]:
+              - paragraph [ref=f1e341]: Estimated investment
+              - paragraph [ref=f1e342]: ₹450
+              - paragraph [ref=f1e343]: Approx. 45 mins
+            - button "Book this experience" [ref=f1e344]
+      - generic [ref=f1e350]:
+        - generic [ref=f1e351]:
+          - heading [level=2] [ref=f1e352]:
+            - text: Three decades in
+            - emphasis [ref=f1e353]: Kowdiar
+          - blockquote [ref=f1e354]:
+            - paragraph [ref=f1e355]: “At The Glatt Salon, every appointment is built around precision, craftsmanship, and personal comfort.”
+          - paragraph [ref=f1e356]: Founded in Trivandrum with a vision for modern unisex hairstyling, we have remained at the vanguard of hair trends, skin science, and Kerala bridal makeover aesthetics for over 28 years.
+          - generic [ref=f1e357]:
+            - button "Experience the craft" [ref=f1e358]
+            - button "Visit the studio" [ref=f1e362]
+        - generic [ref=f1e363]:
+          - paragraph [ref=f1e364]: The record
+          - generic [ref=f1e365]:
+            - generic [ref=f1e366]:
+              - term [ref=f1e367]: Years of Heritage
+              - definition [ref=f1e368]:
+                - generic [ref=f1e369]: 28+
+                - generic [ref=f1e370]: Years of Heritage
+                - generic [ref=f1e371]: Crafting beauty in Kowdiar since 1996
+            - generic [ref=f1e373]:
+              - term [ref=f1e374]: Delighted Patrons
+              - definition [ref=f1e375]:
+                - generic [ref=f1e376]: 35k+
+                - generic [ref=f1e377]: Delighted Patrons
+                - generic [ref=f1e378]: Generations of trusted families
+            - generic [ref=f1e380]:
+              - term [ref=f1e381]: Google Rating
+              - definition [ref=f1e382]:
+                - generic [ref=f1e383]: 4.2★
+                - generic [ref=f1e384]: Google Rating
+                - generic [ref=f1e385]: 574+ Verified Google client reviews
+            - generic [ref=f1e387]:
+              - term [ref=f1e388]: Unisex Craftsmanship
+              - definition [ref=f1e389]:
+                - generic [ref=f1e390]: 100%
+                - generic [ref=f1e391]: Unisex Craftsmanship
+                - generic [ref=f1e392]: Dedicated zones for men & women
+          - paragraph [ref=f1e397]: Founded in 1996 by Creative Director Arun — still at the chair, still teaching.
+      - generic [ref=f1e398]:
+        - generic [ref=f1e402]:
+          - generic [ref=f1e403]:
+            - generic [ref=f1e404]: The treatment suite
+            - heading [level=2] [ref=f1e405]:
+              - text: Craft for every storyyou’re
+              - emphasis [ref=f1e406]: telling
+            - paragraph [ref=f1e407]: Bespoke cuts, dimensional colour, bridal artistry and restorative spa rituals — each performed at the chair by a master of the craft.
+          - generic [ref=f1e408]:
+            - generic [ref=f1e409]: Drag to explore
+            - generic [ref=f1e410]:
+              - button "Previous treatment" [ref=f1e413] [cursor=pointer]
+              - button "Next treatment" [ref=f1e418] [cursor=pointer]
+        - generic [ref=f1e422]:
+          - generic [ref=f1e424]:
+            - generic [ref=f1e425]:
+              - img "Signature Haircut & Styling at The Glatt Salon" [ref=f1e426]
+              - generic [ref=f1e428]: Hair Design
+            - generic [ref=f1e429]:
+              - heading "Signature Haircut & Styling" [level=3] [ref=f1e430]
+              - paragraph [ref=f1e431]: Precision cut tailored to your facial architecture and natural hair texture, followed by luxury blowdry and finish.
+              - generic [ref=f1e432]:
+                - generic [ref=f1e433]: ₹450
+                - generic [ref=f1e434]: 45 mins
+              - button "Reserve" [ref=f1e437]
+          - generic [ref=f1e442]:
+            - generic [ref=f1e443]:
+              - img "Skin Fade & Beard Sculpt at The Glatt Salon" [ref=f1e444]
+              - generic [ref=f1e446]: Men's Grooming
+            - generic [ref=f1e447]:
+              - heading "Skin Fade & Beard Sculpt" [level=3] [ref=f1e448]
+              - paragraph [ref=f1e449]: Master razor detailing, clean high/mid/low fade blending, and hot lather contour sculpting.
+              - generic [ref=f1e450]:
+                - generic [ref=f1e451]: ₹550
+                - generic [ref=f1e452]: 50 mins
+              - button "Reserve" [ref=f1e455]
+          - generic [ref=f1e460]:
+            - generic [ref=f1e461]:
+              - img "Bridal Glamour & Muhurtham Artistry at The Glatt Salon" [ref=f1e462]
+              - generic [ref=f1e464]: Bridal & Makeup
+            - generic [ref=f1e465]:
+              - heading "Bridal Glamour & Muhurtham Artistry" [level=3] [ref=f1e466]
+              - paragraph [ref=f1e467]: Bespoke Kerala bridal transformation featuring HD radiance makeup, traditional hair draping, and floral ornamentation.
+              - generic [ref=f1e468]:
+                - generic [ref=f1e469]: ₹12,000
+                - generic [ref=f1e470]: 180 mins
+              - button "Reserve" [ref=f1e473]
+          - generic [ref=f1e478]:
+            - generic [ref=f1e479]:
+              - img "Balayage & Dimensional Color at The Glatt Salon" [ref=f1e480]
+              - generic [ref=f1e482]: Hair Design
+            - generic [ref=f1e483]:
+              - heading "Balayage & Dimensional Color" [level=3] [ref=f1e484]
+              - paragraph [ref=f1e485]: Hand-painted sunlit highlights, ammonia-free root melt, toner gloss, and bond-building treatment.
+              - generic [ref=f1e486]:
+                - generic [ref=f1e487]: ₹3,800
+                - generic [ref=f1e488]: 150 mins
+              - button "Reserve" [ref=f1e491]
+          - generic [ref=f1e496]:
+            - generic [ref=f1e497]:
+              - img "Keratin Smoothing & Hair Botox at The Glatt Salon" [ref=f1e498]
+              - generic [ref=f1e500]: Hair Design
+            - generic [ref=f1e501]:
+              - heading "Keratin Smoothing & Hair Botox" [level=3] [ref=f1e502]
+              - paragraph [ref=f1e503]: Deep restorative protein infusion eliminating frizz and imparting mirror-like gloss that lasts 4 to 6 months.
+              - generic [ref=f1e504]:
+                - generic [ref=f1e505]: ₹4,500
+                - generic [ref=f1e506]: 120 mins
+              - button "Reserve" [ref=f1e509]
+          - generic [ref=f1e514]:
+            - generic [ref=f1e515]:
+              - img "Moroccan Argan Hair Spa Ritual at The Glatt Salon" [ref=f1e516]
+              - generic [ref=f1e518]: Spa Rituals
+            - generic [ref=f1e519]:
+              - heading "Moroccan Argan Hair Spa Ritual" [level=3] [ref=f1e520]
+              - paragraph [ref=f1e521]: Deep scalp cleansing, warm botanical steam, intensive argan lipid masque, and stress-relieving acupressure massage.
+              - generic [ref=f1e522]:
+                - generic [ref=f1e523]: ₹1,500
+                - generic [ref=f1e524]: 60 mins
+              - button "Reserve" [ref=f1e527]
+          - generic [ref=f1e532]:
+            - generic [ref=f1e533]:
+              - img "Aromatherapy Head & Shoulder Spa at The Glatt Salon" [ref=f1e534]
+              - generic [ref=f1e536]: Spa Rituals
+            - generic [ref=f1e537]:
+              - heading "Aromatherapy Head & Shoulder Spa" [level=3] [ref=f1e538]
+              - paragraph [ref=f1e539]: Therapeutic head, neck, and shoulder massage using warm botanical essential oils to melt away tension.
+              - generic [ref=f1e540]:
+                - generic [ref=f1e541]: ₹1,800
+                - generic [ref=f1e542]: 60 mins
+              - button "Reserve" [ref=f1e545]
+          - generic [ref=f1e550]:
+            - generic [ref=f1e551]:
+              - img "Hydra-Luxe Glow Skin Therapy at The Glatt Salon" [ref=f1e552]
+              - generic [ref=f1e554]: Skin & Beauty
+            - generic [ref=f1e555]:
+              - heading "Hydra-Luxe Glow Skin Therapy" [level=3] [ref=f1e556]
+              - paragraph [ref=f1e557]: Gentle exfoliation, deep vortex vacuum extraction, peptide infusion, and calming cryo-cooling globe finish.
+              - generic [ref=f1e558]:
+                - generic [ref=f1e559]: ₹2,800
+                - generic [ref=f1e560]: 75 mins
+              - button "Reserve" [ref=f1e563]
+          - generic [ref=f1e568]:
+            - generic [ref=f1e569]:
+              - img "Executive Grooming Package at The Glatt Salon" [ref=f1e570]
+              - generic [ref=f1e572]: Men's Grooming
+            - generic [ref=f1e573]:
+              - heading "Executive Grooming Package" [level=3] [ref=f1e574]
+              - paragraph [ref=f1e575]: Signature haircut, beard re-shaping, deep clarifying scalp wash, charcoal face cleanup, and hot towel finish.
+              - generic [ref=f1e576]:
+                - generic [ref=f1e577]: ₹1,600
+                - generic [ref=f1e578]: 90 mins
+              - button "Reserve" [ref=f1e581]
+      - generic [ref=f1e590]:
+        - generic [ref=f1e591]:
+          - generic [ref=f1e592]:
+            - heading [level=2] [ref=f1e593]:
+              - text: The work,
+              - emphasis [ref=f1e594]: unretouched
+            - paragraph [ref=f1e595]: Step inside our sanctuary on Keston Road — an interplay of moody elegance, skilled hands, and transformative aesthetics.
+          - tablist "Filter gallery" [ref=f1e596]:
+            - tab "All" [selected] [ref=f1e597]
+            - tab "Videos & Reels" [ref=f1e600]
+            - tab "Bridal Artistry" [ref=f1e604]
+            - tab "Men's Grooming" [ref=f1e606]
+            - tab "Ambiance & Craft" [ref=f1e608]
+        - generic [ref=f1e610]:
+          - button "View Kerala Muhurtham Bridal Artistry" [ref=f1e611]:
+            - generic [ref=f1e612]:
+              - img "Kerala Muhurtham Bridal Artistry" [ref=f1e613]
+              - generic [ref=f1e615]:
+                - paragraph [ref=f1e616]: Bridal Artistry
+                - heading "Kerala Muhurtham Bridal Artistry" [level=3] [ref=f1e617]
+                - paragraph: Traditional Kerala Kasavu bridal makeover featuring royal temple jewelry styling, velvet crimson lips, and fresh rose adornments.
+          - button "View Royal Couple Reception Makeover" [ref=f1e628]:
+            - generic [ref=f1e629]:
+              - generic [ref=f1e631]: Reel • 4K HD
+              - generic [ref=f1e635]:
+                - paragraph [ref=f1e636]: Bridal & Groom Couture
+                - heading "Royal Couple Reception Makeover" [level=3] [ref=f1e637]
+                - paragraph: Bespoke Kerala reception makeover featuring an ivory sequin bridal gown, radiant HD soft glam, and royal embroidered sherwani groom architecture.
+          - button "View Festive Radiance & Jasmine Bun" [ref=f1e641]:
+            - generic [ref=f1e642]:
+              - img "Festive Radiance & Jasmine Bun" [ref=f1e643]
+              - generic [ref=f1e645]:
+                - paragraph [ref=f1e646]: Festive & Party Makeup
+                - heading "Festive Radiance & Jasmine Bun" [level=3] [ref=f1e647]
+                - paragraph: Luminous soft-glam makeover paired with a sculpted floral low bun adorned with fragrant fresh jasmine, crafted for celebrations and receptions.
+          - button "View Signature Groom Fade & Beard Sculpt" [ref=f1e658]:
+            - generic [ref=f1e659]:
+              - generic [ref=f1e661]: Reel • 4K HD
+              - generic [ref=f1e665]:
+                - paragraph [ref=f1e666]: Men's Grooming
+                - heading "Signature Groom Fade & Beard Sculpt" [level=3] [ref=f1e667]
+                - paragraph: High-definition textured pompadour fade, master straight-razor beard contouring, and luxury executive finish for wedding celebrations.
+          - button "View Kowdiar Salon Sanctuary" [ref=f1e671]:
+            - generic [ref=f1e672]:
+              - img "Kowdiar Salon Sanctuary" [ref=f1e673]
+              - generic [ref=f1e675]:
+                - paragraph [ref=f1e676]: Ambiance
+                - heading "Kowdiar Salon Sanctuary" [level=3] [ref=f1e677]
+                - paragraph: Warm ambient arch mirrors, bespoke leather chairs, and private aesthetic suites.
+          - button "View Precision Men’s Styling" [ref=f1e688]:
+            - generic [ref=f1e689]:
+              - img "Precision Men’s Styling" [ref=f1e690]
+              - generic [ref=f1e692]:
+                - paragraph [ref=f1e693]: Men's Grooming
+                - heading "Precision Men’s Styling" [level=3] [ref=f1e694]
+                - paragraph: Sharp zero skin fades, hot towel razor contouring, and bespoke beard craftsmanship.
+          - button "View Luminous Balayage Waves" [ref=f1e705]:
+            - generic [ref=f1e706]:
+              - img "Luminous Balayage Waves" [ref=f1e707]
+              - generic [ref=f1e709]:
+                - paragraph [ref=f1e710]: Color Artistry
+                - heading "Luminous Balayage Waves" [level=3] [ref=f1e711]
+                - paragraph: Multi-dimensional caramel & mocha gloss tones hand-painted with bond builders.
+          - button "View Kerala Bridal Elegance" [ref=f1e722]:
+            - generic [ref=f1e723]:
+              - img "Kerala Bridal Elegance" [ref=f1e724]
+              - generic [ref=f1e726]:
+                - paragraph [ref=f1e727]: Bridal Artistry
+                - heading "Kerala Bridal Elegance" [level=3] [ref=f1e728]
+                - paragraph: Luminous bridal glam with delicate jasmine styling and royal Kerala gold accents.
+          - button "View Aromatic Spa Therapy" [ref=f1e739]:
+            - generic [ref=f1e740]:
+              - img "Aromatic Spa Therapy" [ref=f1e741]
+              - generic [ref=f1e743]:
+                - paragraph [ref=f1e744]: Spa Rituals
+                - heading "Aromatic Spa Therapy" [level=3] [ref=f1e745]
+                - paragraph: Steaming herbal scalp therapy, argan hair baths, and revitalizing acupressure.
+          - button "View Shear Precision at Work" [ref=f1e756]:
+            - generic [ref=f1e757]:
+              - img "Shear Precision at Work" [ref=f1e758]
+              - generic [ref=f1e760]:
+                - paragraph [ref=f1e761]: Master Craft
+                - heading "Shear Precision at Work" [level=3] [ref=f1e762]
+                - paragraph: The art of bespoke haircutting by master stylists with over 28 years of pedigree.
+      - generic [ref=f1e775]:
+        - generic [ref=f1e776]:
+          - heading [level=2] [ref=f1e778]:
+            - text: What the
+            - emphasis [ref=f1e779]: neighbours say
+          - figure "Anjana Mohan Kowdiar, Trivandrum Bridal Makeup & Hair 14.03.2026" [ref=f1e784]:
+            - blockquote [ref=f1e785]: Got my wedding muhurtham makeup and hair done at The Glatt. Everyone praised how radiant, elegant, and natural it looked throughout the ceremony. The team is extraordinarily skilled and attentive.
+            - generic [ref=f1e786]:
+              - generic [ref=f1e787]:
+                - paragraph [ref=f1e788]: Anjana Mohan
+                - paragraph [ref=f1e789]: Kowdiar, Trivandrum
+              - generic [ref=f1e802]: Bridal Makeup & Hair
+              - generic [ref=f1e803]: 14.03.2026
+          - generic [ref=f1e804]:
+            - button "Read review from Anjana Mohan" [ref=f1e805]
+            - button "Read review from Rahul V. Nair" [ref=f1e808]
+            - button "Read review from Sneha Kurien" [ref=f1e810]
+            - button "Read review from Gopakumar P." [ref=f1e812]
+        - complementary [ref=f1e814]:
+          - generic [ref=f1e815]:
+            - paragraph [ref=f1e816]: Verified on Google
+            - generic [ref=f1e817]:
+              - generic [ref=f1e818]: "4.2"
+              - generic [ref=f1e819]: / 5
+            - generic [ref=f1e820]: 574 reviews
+            - paragraph [ref=f1e832]: Four decades of word of mouth in Kowdiar — and 574 public reviews that keep the chair full.
+            - link "Read all reviews" [ref=f1e833] [cursor=pointer]:
+              - /url: https://www.google.com/search?q=the+glatt+salon+trivandrum
+      - generic [ref=f1e839]:
+        - generic [ref=f1e841]:
+          - heading [level=2] [ref=f1e842]:
+            - text: The hands behind
+            - emphasis [ref=f1e843]: the work
+          - paragraph [ref=f1e844]: Trained under global academies and guided by decades of hands-on hair and beauty mastery in Trivandrum.
+        - generic [ref=f1e845]:
+          - article [ref=f1e846]:
+            - generic [ref=f1e847]:
+              - img "Arun & Master Team" [ref=f1e848]
+              - generic [ref=f1e850]: 28+ Years
+              - button "Book with Arun" [ref=f1e852]
+            - generic [ref=f1e856]:
+              - paragraph [ref=f1e857]: "@arunglatt"
+              - heading "Arun & Master Team" [level=3] [ref=f1e858]
+              - paragraph [ref=f1e859]: Creative Director & Founder
+              - paragraph [ref=f1e860]: Bespoke Hair Architecture & Salon Craft
+          - article [ref=f1e861]:
+            - generic [ref=f1e862]:
+              - img "Sarah Jenkins" [ref=f1e863]
+              - generic [ref=f1e865]: 14 Years
+              - button "Book with Sarah" [ref=f1e867]
+            - generic [ref=f1e871]:
+              - paragraph [ref=f1e872]: Bridal Specialist
+              - heading "Sarah Jenkins" [level=3] [ref=f1e873]
+              - paragraph [ref=f1e874]: Senior Bridal & Skin Aesthetician
+              - paragraph [ref=f1e875]: HD Bridal Makeovers & Facial Aesthetics
+          - article [ref=f1e876]:
+            - generic [ref=f1e877]:
+              - img "Vikram Raj" [ref=f1e878]
+              - generic [ref=f1e880]: 12 Years
+              - button "Book with Vikram" [ref=f1e882]
+            - generic [ref=f1e886]:
+              - paragraph [ref=f1e887]: Grooming Expert
+              - heading "Vikram Raj" [level=3] [ref=f1e888]
+              - paragraph [ref=f1e889]: Master Barber & Grooming Specialist
+              - paragraph [ref=f1e890]: Razor Detailing, Fades & Beard Contouring
+          - article [ref=f1e891]:
+            - generic [ref=f1e892]:
+              - img "Maya Varma" [ref=f1e893]
+              - generic [ref=f1e895]: 9 Years
+              - button "Book with Maya" [ref=f1e897]
+            - generic [ref=f1e901]:
+              - paragraph [ref=f1e902]: Color Artist
+              - heading "Maya Varma" [level=3] [ref=f1e903]
+              - paragraph [ref=f1e904]: Color Artistry & Texture Specialist
+              - paragraph [ref=f1e905]: Balayage, Keratin Smoothing & Hair Botox
+      - generic [ref=f1e908]:
+        - generic [ref=f1e909]:
+          - heading [level=2] [ref=f1e910]:
+            - text: Find the studio
+            - emphasis [ref=f1e911]: on Keston Road
+          - paragraph [ref=f1e912]: Conveniently situated in Kanaka Nagar, Kowdiar, Thiruvananthapuram. Ample parking, tranquil air-conditioned private styling zones, and welcoming hospitality.
+          - generic [ref=f1e913]:
+            - generic [ref=f1e914]:
+              - term [ref=f1e915]: Address
+              - definition [ref=f1e920]:
+                - generic [ref=f1e921]: Address
+                - generic [ref=f1e922]: TC/24, 3437/1, Keston Rd
+                - generic [ref=f1e923]: PO, Kanaka Nagar, Kowdiar
+                - generic [ref=f1e924]: Thiruvananthapuram, Kerala 695003
+                - link "Get driving directions" [ref=f1e925] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/dir//The+Glatt+Salon,+TC%2F24,+3437%2F1,+Keston+Rd,+PO,+Kanaka+Nagar,+Kowdiar,+Thiruvananthapuram,+Keralam+695003/@8.9194496,76.6312448,14z
+            - generic [ref=f1e928]:
+              - term [ref=f1e929]: Hours
+              - definition [ref=f1e934]:
+                - generic [ref=f1e935]: Hours
+                - generic [ref=f1e936]: 9:00 AM – 8:30 PM
+                - generic [ref=f1e937]: Open 7 Days a Week
+            - generic [ref=f1e938]:
+              - term [ref=f1e939]: Direct
+              - definition [ref=f1e943]:
+                - generic [ref=f1e944]: Direct
+                - link "+91 98959 70069" [ref=f1e945] [cursor=pointer]:
+                  - /url: tel:09895970069
+                - link "0471 2723003" [ref=f1e946] [cursor=pointer]:
+                  - /url: tel:04712723003
+                - link "360° virtual tour" [ref=f1e947] [cursor=pointer]:
+                  - /url: https://www.google.com/local/place/fid/0x3b05bba934576a77:0x4ebe7ab810559db8/photosphere
+        - generic [ref=f1e953]:
+          - heading "Reserve your appointment" [level=3] [ref=f1e954]
+          - paragraph [ref=f1e955]: Choose a treatment and a preferred time. We will confirm by phone.
+          - generic [ref=f1e956]:
+            - generic [ref=f1e957]:
+              - generic [ref=f1e958]: Treatment
+              - combobox "Treatment" [ref=f1e959] [cursor=pointer]:
+                - option "Signature Haircut & Styling — ₹450" [selected]
+                - option "Skin Fade & Beard Sculpt — ₹550"
+                - option "Bridal Glamour & Muhurtham Artistry — ₹12,000"
+                - option "Balayage & Dimensional Color — ₹3,800"
+                - option "Keratin Smoothing & Hair Botox — ₹4,500"
+                - option "Moroccan Argan Hair Spa Ritual — ₹1,500"
+                - option "Aromatherapy Head & Shoulder Spa — ₹1,800"
+                - option "Hydra-Luxe Glow Skin Therapy — ₹2,800"
+                - option "Executive Grooming Package — ₹1,600"
+            - generic [ref=f1e960]:
+              - generic [ref=f1e961]: Artist
+              - combobox "Artist" [ref=f1e962] [cursor=pointer]:
+                - option "Any Available Master Stylist" [selected]
+                - option "Arun & Master Team — Creative Director & Founder"
+                - option "Sarah Jenkins — Senior Bridal & Skin Aesthetician"
+                - option "Vikram Raj — Master Barber & Grooming Specialist"
+                - option "Maya Varma — Color Artistry & Texture Specialist"
+            - generic [ref=f1e963]:
+              - generic [ref=f1e964]:
+                - generic [ref=f1e965]: Preferred date
+                - textbox "Preferred date" [ref=f1e966]
+              - generic [ref=f1e967]:
+                - generic [ref=f1e968]: Time slot
+                - combobox "Time slot" [ref=f1e969] [cursor=pointer]:
+                  - option "9:30 AM · Morning"
+                  - option "11:00 AM · Morning" [selected]
+                  - option "1:30 PM · Afternoon"
+                  - option "3:30 PM · Afternoon"
+                  - option "5:30 PM · Evening"
+                  - option "7:00 PM · Evening"
+            - generic [ref=f1e970]:
+              - generic [ref=f1e971]:
+                - generic [ref=f1e972]: Your name
+                - textbox "Your name" [ref=f1e973]:
+                  - /placeholder: Full name
+              - generic [ref=f1e974]:
+                - generic [ref=f1e975]: Phone
+                - textbox "Phone" [ref=f1e976]:
+                  - /placeholder: 98959 70069
+            - generic [ref=f1e977]:
+              - button "Send via WhatsApp" [ref=f1e978]
+              - button "Request callback" [ref=f1e981]
+    - contentinfo [ref=f1e982]:
+      - generic [ref=f1e983]:
+        - generic [ref=f1e984]:
+          - generic [ref=f1e985]:
+            - generic [ref=f1e986]: THE GLATT
+            - paragraph [ref=f1e990]: Trivandrum’s benchmark unisex salon and luxury spa. Since 1996, dedicated to precision styling, bridal radiance, and uncompromising customer care.
+            - generic [ref=f1e991]:
+              - link "WhatsApp" [ref=f1e992] [cursor=pointer]:
+                - /url: https://wa.me/919895970069
+              - link "Instagram" [ref=f1e995] [cursor=pointer]:
+                - /url: https://www.instagram.com/theglattsalon/?hl=en
+              - link "Facebook" [ref=f1e998] [cursor=pointer]:
+                - /url: https://www.facebook.com/people/The-Glatt-Beauty-salon/100063777041897/?locale=hi_IN
+          - navigation "Footer" [ref=f1e1001]:
+            - heading "Navigate" [level=4] [ref=f1e1002]
+            - list [ref=f1e1003]:
+              - listitem [ref=f1e1004]:
+                - button "Services & pricing" [ref=f1e1005]
+              - listitem [ref=f1e1006]:
+                - button "Style matcher" [ref=f1e1007]
+              - listitem [ref=f1e1008]:
+                - button "Heritage" [ref=f1e1009]
+              - listitem [ref=f1e1010]:
+                - button "Treatment suite" [ref=f1e1011]
+              - listitem [ref=f1e1012]:
+                - button "Gallery" [ref=f1e1013]
+              - listitem [ref=f1e1014]:
+                - button "Master stylists" [ref=f1e1015]
+              - listitem [ref=f1e1016]:
+                - button "Reviews" [ref=f1e1017]
+              - listitem [ref=f1e1018]:
+                - button "Visit the studio" [ref=f1e1019]
+          - generic [ref=f1e1020]:
+            - heading "The studio" [level=4] [ref=f1e1021]
+            - generic [ref=f1e1022]:
+              - paragraph [ref=f1e1023]: TC/24, 3437/1, Keston Rd, PO, Kanaka Nagar, Kowdiar, Thiruvananthapuram, Kerala 695003
+              - link "+91 98959 70069" [ref=f1e1024] [cursor=pointer]:
+                - /url: tel:09895970069
+              - link "0471 2723003" [ref=f1e1027] [cursor=pointer]:
+                - /url: tel:04712723003
+              - button "Request a callback" [ref=f1e1030]
+            - button "Reserve an appointment" [ref=f1e1034]
+        - generic [ref=f1e1035]:
+          - paragraph [ref=f1e1036]: © 1996 – 2026 The Glatt Salon. All rights reserved. Unisex Salon & Spa — Hair, Makeup, Beauty, Spa.
+          - button [ref=f1e1037]
+  - button "Open Glatt Concierge":
+    - generic: Concierge
